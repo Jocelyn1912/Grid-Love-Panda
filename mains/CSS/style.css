@@ -1,0 +1,48 @@
+/*
+*Reseteo navegador y estilos generales
+*/
+
+* {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+	color: #fff;
+}
+
+[class*="col-"] {
+  float: left;
+  min-height: 7px;
+  padding: 20px; /* gutters */
+  background-color: #F78E69;
+}
+
+.backagroundMenu {
+	background-color: #F78E69;
+	height: 100px;
+	text-align: right;
+
+}
+
+img {
+	width: 100%;
+	height: 100%;
+}
+
+.backagroundText {
+	background-color: #ABE188;	
+}
+
+.backagroundText {
+	background-color: #ABE188;
+	padding: 30px;
+	text-align: center;		
+}
+
+.panditas {
+	border: 10px solid #fff;
+
+}
+
+.footer {
+	text-align: right;
+}
